@@ -1,12 +1,12 @@
-# OS Assignment 2
+# MsnShell
 
-Assignment On Making a shell in C with piping, redirection, signal handling.
+Assignment On Making a shell in C with piping, redirection, signal handling using Linux Syscalls.
 
 ## Running Instructions
 
 * Run `make`
-* Run `make clean`
 * `./msnshell` to run the shell
+* Run `make clean` to remove all object (.o) files  
 
 ## Features implemented
 
